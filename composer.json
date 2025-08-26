@@ -9,8 +9,8 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.2",
-        "drewroberts/media": "^12.0",
+        "php": "^8.3",
+        "drewroberts/media": "dev-main",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
         "livewire/flux": "^2.1.1",
@@ -77,6 +77,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
